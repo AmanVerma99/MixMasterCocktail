@@ -57,11 +57,17 @@ const Wrapper = styled.div`
       grid-template-columns: 2fr 3fr;
       gap: 3rem;
       align-items: center;
+      // padding: 20px;
     }
     .drink-info {
       padding-top: 0;
+      // padding-left: 10px;
+      margin-left:10px;
     }
-     
+     .infor{
+    //  backgrounf-color:red;
+    //  margin-left:10px;
+     }
   }
 `;
 
